@@ -1,7 +1,8 @@
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
-from scipy.special import genlaguerre, sph_harm, factorial
+from scipy.special import genlaguerre, factorial
+import scipy.special as special
 
 st.set_page_config(page_title="CHY1005 Quantum Hub", layout="wide")
 

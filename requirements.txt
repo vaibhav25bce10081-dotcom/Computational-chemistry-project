@@ -1,4 +1,4 @@
 streamlit
 numpy
 matplotlib
-scipy
+scipy==1.11.4
